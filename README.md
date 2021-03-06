@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Learn SystemVerilog: https://learn-systemverilog-web.herokuapp.com
+Learn SystemVerilog: https://learn-systemverilog.github.io
 
 ![animation.gif](animation.gif)
 
