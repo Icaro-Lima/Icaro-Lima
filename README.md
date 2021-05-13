@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science with Python**
 
-- 💬 Ask me about **Unity, Git, Docker, C++, and GoLang**
+- 💬 Ask me about **Rockets, STEM, Unity, Git, Docker, C++, and GoLang**
 
 - 📫 How to reach me **icarodantas.lima@gmail.com**
 
