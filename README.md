@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ícaro Lima</h1>
 <h3 align="center">A passionate game and web developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Personal projects**
+- 🔭 I’m currently working on **VTEX**
 
-- 🌱 I’m currently learning **Data Science with Python**
+- 🌱 I’m currently learning **F#**
 
 - 💬 Ask me about **Rockets, STEM, Unity, Git, Docker, C++, and GoLang**
 
