@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ícaro Lima</h1>
 
-- 🔭 I’m currently working at [**VTEX**](https://vtex.com)
-
 - 🌱 I’m currently learning **F#**
 
 - 💬 Ask me about **Rockets, STEM, Unity, Git, Docker, C++, and GoLang**
