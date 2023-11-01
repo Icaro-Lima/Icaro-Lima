@@ -28,4 +28,4 @@ Organization: https://github.com/verilog-playground
 
 Repository: https://github.com/Icaro-Lima/ASCII-Rubiks-Cube-Simulator
 
-![ASCII Rubik's Cube Simulator](https://github.com/Icaro-Lima/ASCII-Rubiks-Cube-Simulator/raw/master/Screencast.gif)
+![ASCII Rubik's Cube Simulator](ASCII%20Rubik's%20Cube%20Simulator_cropped.gif)
